@@ -39,6 +39,8 @@ public class HomePage extends base {
 		lg.getUserPwdDetails().sendKeys(password);
 	    lg.getBtnDetails().click();
 	    Log.info("Credetials Entered");
+	    System.out.println("Satya");
+	    System.out.println("Puina");
 	}
 	
 

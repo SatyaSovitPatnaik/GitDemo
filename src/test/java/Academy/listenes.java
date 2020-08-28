@@ -27,7 +27,7 @@ public class listenes implements ITestListener {
 		try {
 		b.getScreenShot(result.getName());
 		}
-		catch(IOException e)
+		catch(Exception e)
 		{
 			e.printStackTrace();
 		}
