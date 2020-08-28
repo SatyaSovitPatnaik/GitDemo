@@ -41,6 +41,7 @@ public class HomePage extends base {
 	    Log.info("Credetials Entered");
 	    System.out.println("Satya");
 	    System.out.println("Puina");
+	    System.out.println("Sonali");
 	}
 	
 

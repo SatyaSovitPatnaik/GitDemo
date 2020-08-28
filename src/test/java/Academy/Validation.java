@@ -39,6 +39,7 @@ public class Validation extends base {
 		System.out.println(lp.text().getText());
 		Assert.assertEquals(lp.text().getText(), "FEATURED COURSES");
 		 Log.info("Sucessfully Validated");
+		 System.out.println("Ashi");
 		
 	}
 	@AfterTest
