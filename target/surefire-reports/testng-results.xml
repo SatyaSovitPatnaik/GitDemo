@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="43050" started-at="2020-04-16T21:50:35Z" finished-at="2020-04-16T21:51:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="43050" started-at="2020-04-16T21:50:35Z" finished-at="2020-04-16T21:51:18Z">
+      <class name="Academy.HomePage">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Academy.HomePage@1eb5174b]" name="beforeTest" is-config="true" duration-ms="6481" started-at="2020-04-16T22:50:35Z" finished-at="2020-04-16T22:50:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Academy.Validation@732c2a62]" name="beforeTest" is-config="true" duration-ms="10737" started-at="2020-04-16T22:50:41Z" finished-at="2020-04-16T22:50:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Academy.ValidationBar@1ba9117e]" name="beforeTest" is-config="true" duration-ms="10385" started-at="2020-04-16T22:50:52Z" finished-at="2020-04-16T22:51:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="BasePageNavigator(java.lang.String, java.lang.String)[pri:0, instance:Academy.HomePage@1eb5174b]" name="BasePageNavigator" duration-ms="14051" started-at="2020-04-16T22:51:03Z" data-provider="getData" finished-at="2020-04-16T22:51:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[satya@123.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BasePageNavigator -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Academy.HomePage@1eb5174b]" name="afterTest" is-config="true" duration-ms="233" started-at="2020-04-16T22:51:17Z" finished-at="2020-04-16T22:51:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Academy.Validation@732c2a62]" name="afterTest" is-config="true" duration-ms="286" started-at="2020-04-16T22:51:17Z" finished-at="2020-04-16T22:51:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Academy.ValidationBar@1ba9117e]" name="afterTest" is-config="true" duration-ms="380" started-at="2020-04-16T22:51:17Z" finished-at="2020-04-16T22:51:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Academy.HomePage -->
+      <class name="Academy.Validation">
+        <test-method status="PASS" signature="BasePageNavigator()[pri:0, instance:Academy.Validation@732c2a62]" name="BasePageNavigator" duration-ms="163" started-at="2020-04-16T22:51:03Z" finished-at="2020-04-16T22:51:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BasePageNavigator -->
+      </class> <!-- Academy.Validation -->
+      <class name="Academy.ValidationBar">
+        <test-method status="PASS" signature="BasePageNavigator()[pri:0, instance:Academy.ValidationBar@1ba9117e]" name="BasePageNavigator" duration-ms="302" started-at="2020-04-16T22:51:02Z" finished-at="2020-04-16T22:51:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BasePageNavigator -->
+      </class> <!-- Academy.ValidationBar -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

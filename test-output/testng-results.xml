@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46230" started-at="2020-04-17T13:04:12Z" finished-at="2020-04-17T13:04:58Z">
+    <groups>
+    </groups>
+    <test name="Application Testisng" duration-ms="10" started-at="2020-04-17T13:04:12Z" finished-at="2020-04-17T13:04:12Z">
+    </test> <!-- Application Testisng -->
+    <test name="Validation Bar Test" duration-ms="15014" started-at="2020-04-17T13:04:12Z" finished-at="2020-04-17T13:04:27Z">
+      <class name="Academy.ValidationBar">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Academy.ValidationBar@16610890]" name="beforeTest" is-config="true" duration-ms="14284" started-at="2020-04-17T14:04:12Z" finished-at="2020-04-17T14:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="BasePageNavigator()[pri:0, instance:Academy.ValidationBar@16610890]" name="BasePageNavigator" duration-ms="434" started-at="2020-04-17T14:04:26Z" finished-at="2020-04-17T14:04:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BasePageNavigator -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Academy.ValidationBar@16610890]" name="afterTest" is-config="true" duration-ms="278" started-at="2020-04-17T14:04:27Z" finished-at="2020-04-17T14:04:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Academy.ValidationBar -->
+    </test> <!-- Validation Bar Test -->
+    <test name="Valdation Test" duration-ms="10220" started-at="2020-04-17T13:04:27Z" finished-at="2020-04-17T13:04:37Z">
+      <class name="Academy.Validation">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Academy.Validation@22ef9844]" name="beforeTest" is-config="true" duration-ms="9596" started-at="2020-04-17T14:04:27Z" finished-at="2020-04-17T14:04:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="BasePageNavigator()[pri:0, instance:Academy.Validation@22ef9844]" name="BasePageNavigator" duration-ms="297" started-at="2020-04-17T14:04:36Z" finished-at="2020-04-17T14:04:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BasePageNavigator -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Academy.Validation@22ef9844]" name="afterTest" is-config="true" duration-ms="318" started-at="2020-04-17T14:04:37Z" finished-at="2020-04-17T14:04:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Academy.Validation -->
+    </test> <!-- Valdation Test -->
+    <test name="Home Page Test" duration-ms="20945" started-at="2020-04-17T13:04:37Z" finished-at="2020-04-17T13:04:58Z">
+      <class name="Academy.HomePage">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Academy.HomePage@5acf93bb]" name="beforeTest" is-config="true" duration-ms="5812" started-at="2020-04-17T14:04:37Z" finished-at="2020-04-17T14:04:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="BasePageNavigator(java.lang.String, java.lang.String)[pri:0, instance:Academy.HomePage@5acf93bb]" name="BasePageNavigator" duration-ms="10661" started-at="2020-04-17T14:04:43Z" data-provider="getData" finished-at="2020-04-17T14:04:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[satya@123.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BasePageNavigator -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Academy.HomePage@5acf93bb]" name="afterTest" is-config="true" duration-ms="4457" started-at="2020-04-17T14:04:54Z" finished-at="2020-04-17T14:04:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Academy.HomePage -->
+    </test> <!-- Home Page Test -->
+  </suite> <!-- Suite -->
+</testng-results>
