@@ -7,7 +7,6 @@ public class Decide {
 		
 		
 		
-		System.out.println("Modified");
 		
 	
 
