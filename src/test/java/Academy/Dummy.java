@@ -7,6 +7,7 @@ public class Dummy {
 		
 		System.out.println("Please study");
 		System.out.println("Please work hard");
+		System.out.println("Added");
 		
 		
 		//System.out.println("Please clean the house");
