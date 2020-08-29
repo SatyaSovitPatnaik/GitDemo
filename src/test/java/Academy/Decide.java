@@ -8,6 +8,7 @@ public class Decide {
 		
 		System.out.println("A");
 		System.out.println("B");
+		System.out.println("D");
 		System.out.println("C");
 	
 
