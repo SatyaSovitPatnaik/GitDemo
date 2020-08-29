@@ -6,7 +6,8 @@ public class Decide {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Added");
-		System.out.println("Deleted");
+		
+		System.out.println("Modified");
 
 	}
 
