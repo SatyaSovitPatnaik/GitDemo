@@ -9,10 +9,9 @@ public class Dummy {
 		System.out.println("Please work hard");
 		
 		
-		System.out.println("Please chop the vegetables");
 		System.out.println("Please clean the house");
 		System.out.println("Please cook properly");
-		System.out.println("Please take medicines timely");
+	
 		
 	}
 
