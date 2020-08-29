@@ -6,11 +6,10 @@ public class Dummy {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Please study");
-		System.out.println("Please work hard");
+	
 		
 		
-		//System.out.println("Please clean the house");
-		//System.out.println("Please cook properly");
+		
 	
 		
 	}
