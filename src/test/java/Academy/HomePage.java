@@ -42,7 +42,11 @@ public class HomePage extends base {
 	    System.out.println("Satya");
 	    System.out.println("Puina");
 	    System.out.println("Sonali");
+	    System.out.println("Ashish");
+	    System.out.println("gugul");
+	    System.out.println("chubunu");
 	}
+	
 	
 
 	@DataProvider
