@@ -8,6 +8,8 @@ public class Decide {
 		
 		
 		System.out.println("Modified");
+		
+		System.out.println("Eat");
 
 	}
 
